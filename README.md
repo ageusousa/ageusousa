@@ -1,4 +1,4 @@
-## HOlá, eu sou Ageu Sousa 👋
+## Olá, eu sou Ageu Sousa 👋
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Procurando oportunidade como programador 
